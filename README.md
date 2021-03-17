@@ -10,7 +10,7 @@
 <p>
     Layout/atividade.
 </p>
-![divs2](https://user-images.githubusercontent.com/63010902/111456133-608e9a80-86f5-11eb-92c6-2881f1d129f2.jpg)
+![divs2](https://user-images.githubusercontent.com/63010902/111511956-fba36680-872d-11eb-8bd6-04ff38b98ee3.jpg)
 
 <p>
     O meu projeto feito:
