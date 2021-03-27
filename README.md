@@ -8,7 +8,7 @@
     Layout da página feito inteiramente com flexbox. Anteriormente em outro repositorio meu - <a href="https://github.com/dansf/Primeiro-Projeto-Web-de-estudo">https://github.com/dansf/Primeiro-Projeto-Web-de-estudo </a>-, eu fiz um layout apenas com "float" porque era requisito, porém esse aqui pude fazer com flex, apesar de nao saber muito sobre flex ou frontend em si, acredito que ficou agravel o layout.
 </p>
 <p>
-    Link da página: <a href="https://dev-web-layout-pagina-flex.vercel.app/" target="_blank">https://dev-web-layout-pagina-flex.vercel.app/</a>
+    <b>Link da página:</b> <a href="https://dev-web-layout-pagina-flex.vercel.app/" target="_blank">https://dev-web-layout-pagina-flex.vercel.app/</a>
 </p>
 
 
